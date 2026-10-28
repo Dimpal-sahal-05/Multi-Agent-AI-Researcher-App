@@ -1,0 +1,48 @@
+# Core LangChain Ecosystem & LCLE Runnables
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# Google Gemini Integration
+langchain-google-genai>=2.0.0
+google-genai>=1.0.0
+
+# Tools & Web Scraping Utilities
+tavily-python>=0.8.4
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+requests>=2.32.5
+
+# Data Validation & Environment Management
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# data handling
+pandas>=2.0.0
+numpy
+
+#optional 
+html5lib>=1.1
+
+# Retry + robustness
+tenacity>=8.2.0
+
+
+# --- LangGraph (for create_react_agent) ---
+langgraph
+
+# Optional but useful (debugging, async, etc.)
+httpx==0.28.1
+
+
+# Environment + Utilities
+rich
+
+# Typing / Compatibility
+typing-extensions==4.15.0
+
+tavily-python
+arxiv
+pymupdf
+
+streamlit
