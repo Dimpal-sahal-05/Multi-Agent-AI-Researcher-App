@@ -75,7 +75,7 @@ Ensure you have Python 3.9 or higher installed.
 
 Clone the repository and enter the directory:
 ```bash
-git clone https://github.com/your-username/multi-agent-ai-researcher.git
+git clone https://github.com/Dimpal-sahal-05/multi-agent-ai-researcher.git
 cd multi-agent-ai-researcher
 ```
 
